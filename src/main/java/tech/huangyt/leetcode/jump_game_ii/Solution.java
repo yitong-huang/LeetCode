@@ -1,4 +1,4 @@
-package cc.yitong0768.leetcode.jump_game_ii;
+package tech.huangyt.leetcode.jump_game_ii;
 
 class Solution {
 	public int jump(int[] nums) {

@@ -1,4 +1,4 @@
-package cc.yitong0768.leetcode.substring_with_concatenation_of_all_words;
+package tech.huangyt.leetcode.substring_with_concatenation_of_all_words;
 
 import java.util.ArrayList;
 import java.util.HashMap;

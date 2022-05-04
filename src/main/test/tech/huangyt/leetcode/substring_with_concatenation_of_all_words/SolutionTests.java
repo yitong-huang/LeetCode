@@ -1,10 +1,12 @@
-package cc.yitong0768.leetcode.substring_with_concatenation_of_all_words;
+package tech.huangyt.leetcode.substring_with_concatenation_of_all_words;
 
-import static org.junit.Assert.assertEquals;
+
+import org.junit.jupiter.api.Test;
 
 import java.util.List;
 
-import org.junit.Test;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
 
 public class SolutionTests {
 

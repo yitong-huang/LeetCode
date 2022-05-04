@@ -1,8 +1,9 @@
-package cc.yitong0768.leetcode.trapping_rain_water;
+package tech.huangyt.leetcode.trapping_rain_water;
+
+
+import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
-
-import org.junit.Test;
 
 public class SolutionTests {
 

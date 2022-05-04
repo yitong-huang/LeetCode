@@ -1,8 +1,9 @@
-package cc.yitong0768.leetcode.median_of_two_sorted_arrays;
+package tech.huangyt.leetcode.median_of_two_sorted_arrays;
+
+
+import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
-
-import org.junit.Test;
 
 public class SolutionTests {
 

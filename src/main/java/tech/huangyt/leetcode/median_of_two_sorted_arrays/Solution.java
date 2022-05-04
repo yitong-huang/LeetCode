@@ -1,4 +1,4 @@
-package cc.yitong0768.leetcode.median_of_two_sorted_arrays;
+package tech.huangyt.leetcode.median_of_two_sorted_arrays;
 
 /*
  * There are two sorted arrays nums1 and nums2 of size m and n respectively.
