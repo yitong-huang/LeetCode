@@ -1,8 +1,9 @@
-package cc.yitong0768.leetcode.jump_game_ii;
+package tech.huangyt.leetcode.jump_game_ii;
 
-import static org.junit.Assert.assertEquals;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class SolutionTests {
 
